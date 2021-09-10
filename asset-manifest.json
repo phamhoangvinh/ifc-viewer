@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ifc-viewer/static/css/main.5739ad41.chunk.css",
+    "main.js": "/ifc-viewer/static/js/main.9366e497.chunk.js",
+    "main.js.map": "/ifc-viewer/static/js/main.9366e497.chunk.js.map",
+    "runtime-main.js": "/ifc-viewer/static/js/runtime-main.f4c424b4.js",
+    "runtime-main.js.map": "/ifc-viewer/static/js/runtime-main.f4c424b4.js.map",
+    "static/js/2.d0381e65.chunk.js": "/ifc-viewer/static/js/2.d0381e65.chunk.js",
+    "static/js/2.d0381e65.chunk.js.map": "/ifc-viewer/static/js/2.d0381e65.chunk.js.map",
+    "static/js/3.2ab44ecd.chunk.js": "/ifc-viewer/static/js/3.2ab44ecd.chunk.js",
+    "static/js/3.2ab44ecd.chunk.js.map": "/ifc-viewer/static/js/3.2ab44ecd.chunk.js.map",
+    "index.html": "/ifc-viewer/index.html",
+    "static/css/main.5739ad41.chunk.css.map": "/ifc-viewer/static/css/main.5739ad41.chunk.css.map",
+    "static/js/2.d0381e65.chunk.js.LICENSE.txt": "/ifc-viewer/static/js/2.d0381e65.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4c424b4.js",
+    "static/js/2.d0381e65.chunk.js",
+    "static/css/main.5739ad41.chunk.css",
+    "static/js/main.9366e497.chunk.js"
+  ]
+}
